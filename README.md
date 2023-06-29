@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=muasya alt=muasya/> </p>
 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning C#
 
 <h3 align="left">Connect with me:</h3>
 
