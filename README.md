@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning C#
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 
 <a href="https://twitter.com/mbuvimuasya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muasya" height="30" width="40" /></a>
 
