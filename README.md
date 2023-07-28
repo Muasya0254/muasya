@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muasya
 
-Welcome to my GitHub profile!
+Welcom to my GitHub profile.
 
 ## Connect with me on
 
